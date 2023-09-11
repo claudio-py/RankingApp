@@ -7,7 +7,7 @@ An interactive webpage to ranking albums and movies by dragging and dropping the
 
 
 <p align="center">
-  <img alt=" src=".github/project.png" width="100%">
+  <img alt="" src=".github/project.png" width="100%">
 </p>
 
 ## 🚀 TECHNOLOGY
