@@ -1,29 +1,18 @@
+# RankingApp
 <h1 align="center"> Ranking App </h1>
 
 <p align="center">
 An interactive webpage to ranking albums and movies by dragging and dropping the respective images to the optional field representing a ponctuation
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt=" src="github/project.png" width="100%">
 </p>
 
-<br>
+## 🚀 TECHNOLOGY
 
-<p align="center">
-  <img alt="rocketpay" src="" width="100%">
-</p>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+THIS PROJECT WAS DONE WITH THE FOLLOWING TECHNOLOGIES
 
 - HTML e CSS
 - JavaScript e JSON
